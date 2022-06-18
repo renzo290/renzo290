@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="/life_chart/"life_chart_renzo.png">
+
 <!--
 **renzo290/renzo290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
