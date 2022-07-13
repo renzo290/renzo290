@@ -4,7 +4,7 @@ Mi nombre es Renzo Falciglia, soy de Carlos Casares, provincia de Bs As, pero ac
 
 Soy economísta y tengo una maestría en Administración y Políticas Públicas 👨‍🎓
 
-Desde hace un tiempo me estoy especializando en el análisisy la visualización de datos 📊📈
+Desde hace un tiempo me estoy especializando en el análisis y la visualización de datos 📊📈
 
 Por ahora estoy realizando mis proyectos en R, pero también estoy capacitándome en Python.
 
