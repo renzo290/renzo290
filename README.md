@@ -8,8 +8,7 @@ Desde hace un tiempo me estoy especializando en el análisis y la visualización
 
 Por ahora estoy realizando mis proyectos en R, pero también estoy capacitándome en Python.
 
-Acá hay un recorrido de mi vida, en la forma de un  waffle 🧇 
-Para más información, pueden consultar mi perfil de [Linkedin](https://www.linkedin.com/in/renzo-falciglia "Linkedin Renzo Falciglia") ⚡
+Acá hay un recorrido de mi vida, en la forma de un  waffle 🧇 y para más información, pueden consultar mi perfil de [Linkedin](https://www.linkedin.com/in/renzo-falciglia "Linkedin Renzo Falciglia") ⚡
 ![alt text](https://github.com/renzo290/life_chart/blob/main/life_chart_renzo.png)
 
 
