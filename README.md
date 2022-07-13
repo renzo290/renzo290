@@ -11,7 +11,7 @@ Por ahora estoy realizando mis proyectos en R, pero también estoy capacitándom
 Acá hay un recorrido de mi vida, en la forma de un  waffle 🧇 
 ![alt text](https://github.com/renzo290/life_chart/blob/main/life_chart_renzo.png)
 
-Para más información pueden consultar mi perfil de [Linkedin](www.linkedin.com/in/renzo-falciglia "Linkedin Renzo Falciglia") ⚡
+Para más información pueden consultar mi perfil de [Linkedin](https://www.linkedin.com/in/renzo-falciglia "Linkedin Renzo Falciglia") ⚡
 
 <!--
 **renzo290/renzo290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
