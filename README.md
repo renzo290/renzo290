@@ -2,7 +2,7 @@
 
 Mi nombre es Renzo Falciglia, soy de Carlos Casares, provincia de Bs As, pero actualmente vivo en CABA, Argentina.
 
-Soy economísta y tengo una maestría en Administración y Políticas Públicas 👨‍🎓
+Soy economísta, tengo una maestría en Administración y Políticas Públicas y estoy haciendo una maestría en Economía Aplicada 👨‍🎓
 
 Desde hace un tiempo me estoy especializando en el análisis y la visualización de datos 📊📈
 
